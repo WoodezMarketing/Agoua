@@ -98,7 +98,7 @@ export function About() {
                     {[
                       { label: "FORMATION", title: "Doctorat en odonto-stomatologie", desc: "Formation complétée en Côte d'Ivoire, avec une base solide en santé bucco-dentaire et une approche axée sur le bien-être global des patients." },
                       { label: "EXPÉRIENCE PROFESSIONNELLE", title: "Hygiéniste dentaire", desc: "Plusieurs années d'expérience au Québec, notamment à Sherbrooke et Montréal, auprès d'une clientèle variée, permettant de développer une pratique rigoureuse et humaine." },
-                      { label: "SPÉCIALISATION", title: "Denturogie", desc: "Transition vers la denturologie afin d'offrir des solutions complètes et adaptées, centrées sur le confort, la fonctionnalité et l'esthétique." },
+                      { label: "SPÉCIALISATION", title: "Denturologie", desc: "Transition vers la denturologie afin d'offrir des solutions complètes et adaptées, centrées sur le confort, la fonctionnalité et l'esthétique." },
                       { label: "PRATIQUE ACTUELLE", title: "Pratique clinique", desc: "Exerce principalement à Sherbrooke, avec une implication auprès de différentes communautés, incluant en région éloignée, afin de rendre les soins accessibles." },
                     ].map((item) => (
                       <div key={item.title} className="border-l-2 border-[#00a8b2] pl-6 flex flex-col gap-1">
