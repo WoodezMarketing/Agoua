@@ -214,7 +214,7 @@ export function Home() {
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <TestimonialCard
-              text="« M. Agoua est exceptionnel. Ma prothèse s'ajuste parfaitement et je retrouve enfin le plaisir de manger normalement. Son écoute et sa patience m'ont vraiment mis à l'aise. »"
+              text="« « M. Agoua a fait un travail remarquable. Ma prothèse est confortable et très naturelle, ce qui me permet de manger et de sourire sans gêne. Il prend le temps d’écouter et de bien expliquer chaque étape. Son approche rassurante et son souci du détail font toute la différence. »"
               initials="ML"
               name="Marie-Louise Tremblay"
               detail="Patiente depuis 3 ans"
