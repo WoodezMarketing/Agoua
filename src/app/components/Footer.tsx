@@ -65,7 +65,7 @@ export function Footer() {
               </div>
               <div className="flex gap-3 items-center">
                 <Phone size={16} className="text-[#00a8b2] shrink-0" />
-                <span className="text-[14px] text-[rgba(255,255,255,0.5)]" style={{ fontFamily: "'Rethink Sans', sans-serif" }}>819 563-1383</span>
+                <span className="text-[14px] text-[rgba(255,255,255,0.5)]" style={{ fontFamily: "'Rethink Sans', sans-serif" }}>819 446-6985</span>
               </div>
               <div className="flex gap-3 items-center">
                 <Mail size={16} className="text-[#00a8b2] shrink-0" />
