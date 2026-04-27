@@ -50,7 +50,7 @@ export function Contact() {
               </div>
               <div>
                 <p className="text-[#00a8b2] text-[11px] uppercase tracking-wider" style={{ ...font, fontWeight: 700 }}>Téléphone</p>
-                <p className="text-white text-[13px]" style={font}>819 563-1383</p>
+                <p className="text-white text-[13px]" style={font}>819 446-6985</p>
               </div>
             </div>
             <div className="flex items-center gap-3">
